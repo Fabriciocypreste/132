@@ -1,0 +1,6 @@
+{
+  "name": "My Family Plus (M+)",
+  "description": "Plataforma de streaming My Family Plus (M+) — filmes, séries e entretenimento em 4K HDR para toda a família.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
